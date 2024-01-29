@@ -1,0 +1,204 @@
+.first_section
+{
+  
+  height:50px;
+  padding:20px;
+  background-color:#3d2b1f;  
+}
+
+.second_section
+{
+	position:absolute;
+	top:10px;
+	left:50px;
+	padding:20px;
+	width:190px;
+	height:160px;	
+}
+a
+{
+ text-decoration:none;
+ color:#a55c11 ;
+}
+a:hover
+{
+ text-decoration:bold;
+ color:#7b1113;
+ font-family: 'Trebuchet MS', sans-serif;
+ 
+}
+.home
+{
+	position:absolute;
+	top:25px;
+	right:600px;
+	
+	
+}
+.about
+{
+	position:absolute;
+	top:25px;
+	right:430px;
+	
+}
+.product
+{
+	position:absolute;
+	top:25px;
+	right:270px;
+	
+}
+
+.contact
+{
+	position:absolute;
+	top:25px;
+	right:90px;
+	
+	
+}
+.third_section
+{
+	width:40px;
+	height:40px;
+	border:solid 3px #a55c11;
+	float:right;
+	margin:20px;
+	border-radius:5px;
+	
+	
+}
+
+
+.fourth_section
+{
+  
+  height:580px;
+  padding:30px;
+  background-color:white;  
+ 
+}
+
+.photo1
+{
+	width:550px;
+	height:400px;
+	position:absolute;
+	top:270px;
+	left:70px;
+	opacity:0.5;
+}
+
+.fifth_section
+{
+	width:750px;
+	height:300px;
+	position:absolute;
+	top:300px;
+	left:650px;
+	padding-left:20px;
+	border-left:solid 3px #a55c11;
+	margin:20px;
+	
+}
+.jt
+{
+	text-align:justify;
+	font-family:'Trebuchet MS', sans-serif;
+}
+.center
+{
+	text-align:center;
+	font-family:'Trebuchet MS', sans-serif;
+}
+
+.sixth_section
+{
+  
+  height:230px;
+  padding:20px;
+  background-color:#3d2b1f;  
+}
+
+.seventh_section
+{
+	width:300px;
+	height:220px;
+	position:absolute;
+	top:740px;
+	left:70px;
+	padding:3px;
+	border-right:solid 3px  #9f8170;
+	margin:20px;
+}
+.symbol1
+{
+	width:20px;
+	height:30px;
+	position:absolute;
+	top:115px;
+	left:80px;
+	padding:3px;
+	border:solid 3px #3d2b1f ;
+	background-color:#3d2b1f;
+}
+.symbol2
+{
+	width:20px;
+	height:20px;
+	position:absolute;
+	top:155px;
+	left:50px;
+	padding:3px;
+	border:solid 3px #3d2b1f ;
+	background-color:#3d2b1f;
+}
+.symbol3
+{
+	width:20px;
+	height:20px;
+	position:absolute;
+	top:190px;
+	left:25px;
+	padding:1px;
+	border:solid 3px #3d2b1f ;
+	background-color:#3d2b1f;
+}
+
+.eight_section
+{
+	width:550px;
+	height:210px;
+	position:absolute;
+	top:730px;
+	left:370px;
+	padding:10px;
+	border-right:solid 3px #9f8170 ;
+	margin:30px;
+}
+
+.ninth_section
+{
+	width:360px;
+	height:200px;
+	position:absolute;
+	top:730px;
+	left:980px;
+	padding:5px;
+	border:solid 3px #a55c11;
+	border-radius:5%;
+	margin:40px;
+}
+.name
+{
+	position:absolute;
+	top:690px;
+	left:1330px;
+}
+
+
+
+
+
+
